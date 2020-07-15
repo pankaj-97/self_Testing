@@ -1,3 +1,6 @@
 print( "test sucessful")
 print("magic")
-print("eat eat ")
+
+print("work hard")
+print("just do it")
+print("sleep sleep")
